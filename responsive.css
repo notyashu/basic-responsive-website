@@ -1,0 +1,14 @@
+@media screen and (max-width: 1000px) {
+  main div p {
+    padding: 30px 110px;
+  }
+  header {
+    font-size: 2.9vw;
+  }
+}
+
+@media screen and (max-width: 400px) {
+    main div p {
+        padding: 30px 50px;
+      }
+}
