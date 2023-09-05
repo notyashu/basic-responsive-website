@@ -35,6 +35,19 @@ a {
   width: 150px;
   padding-top: 5px;
 }
+
+.circle-crop {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.circle-crop img {
+  width: 100%;
+  height: auto; 
+}
+
 header {
   position: sticky;
   top: 0;
